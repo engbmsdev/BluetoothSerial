@@ -93,5 +93,5 @@ If `enable` is called when Bluetooth is already enabled, the user will not promp
 
 ## License and credits
 
-The plugin is a semplified version of (Don Coleman's BluetoothSerial Plugin)[https://github.com/don/BluetoothSerial]
-The original (BluetoothSerial Plugin)[https://github.com/don/BluetoothSerial] is licensed under the [Apache License, Version 2.0.](https://github.com/don/BluetoothSerial/blob/master/LICENSE.txt)
+The plugin is a semplified version of [Don Coleman's BluetoothSerial Plugin](https://github.com/don/BluetoothSerial)
+The original [BluetoothSerial Plugin](https://github.com/don/BluetoothSerial) is licensed under the [Apache License, Version 2.0.](https://github.com/don/BluetoothSerial/blob/master/LICENSE.txt)
