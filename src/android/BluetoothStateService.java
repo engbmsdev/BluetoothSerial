@@ -1,4 +1,4 @@
-package com.megster.cordova;
+package it.engbmsdev.cordova.bluetoothstate;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -24,7 +24,7 @@ import android.util.Log;
  * This code was based on the Android SDK BluetoothChat Sample
  * $ANDROID_SDK/samples/android-17/BluetoothChat
  */
-public class BluetoothSerialService {
+public class BluetoothStateService {
 
     // Debugging
     private static final String TAG = "BluetoothSerialService";

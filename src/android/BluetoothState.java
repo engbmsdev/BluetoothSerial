@@ -1,4 +1,4 @@
-package com.megster.cordova;
+package it.engbmsdev.cordova.bluetoothstate;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -27,7 +27,7 @@ import java.util.Set;
 /**
  * PhoneGap Plugin for Serial Communication over Bluetooth
  */
-public class BluetoothSerial extends CordovaPlugin {
+public class BluetoothState extends CordovaPlugin {
 
     // actions
     private static final String LIST = "list";
