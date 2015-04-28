@@ -1,15 +1,15 @@
 module.exports = {
 
     isEnabled: function (success, failure) {
-        cordova.exec(success, failure, "BluetoothSerial", "isEnabled", []);
+        cordova.exec(success, failure, "BluetoothState", "isEnabled", []);
     },
 
     showBluetoothSettings: function (success, failure) {
-        cordova.exec(success, failure, "BluetoothSerial", "showBluetoothSettings", []);
+        cordova.exec(success, failure, "BluetoothState", "showBluetoothSettings", []);
     },
 
     enable: function (success, failure) {
-        cordova.exec(success, failure, "BluetoothSerial", "enable", []);
+        cordova.exec(success, failure, "BluetoothState", "enable", []);
     }
 
 };
