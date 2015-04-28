@@ -30,8 +30,6 @@
 
         <source-file src="src/android/BluetoothState.java"
             target-dir="src/it/engbmsdev/cordova/bluetoothstate"/>
-        <source-file src="src/android/BluetoothStateService.java"
-            target-dir="src/it/engbmsdev/cordova/bluetoothstate"/>
 
         <config-file target="AndroidManifest.xml" parent="/manifest">
             <uses-permission android:name="android.permission.BLUETOOTH" />
